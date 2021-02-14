@@ -1,4 +1,4 @@
-var lives =100; //Lives starting out
+let lives =100; //Lives starting out
 
 lives = lives -10; //take a hit in the game
 
